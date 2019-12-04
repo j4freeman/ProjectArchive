@@ -1,0 +1,40 @@
+synthetic data
+started with plan as described in bpr
+ - tried to have multiple products per node, got better results but running time increased massively
+ - switched from uniform distribution to beta distribution to prevent excessive clustering
+ - excessive clustering issue
+	 - tried decreasing dissimilarity thresholds over time but seemed contrived
+	 - settled for a method comprising beta distribution, fewer node introductions, 
+		and a higher probability of adoption
+ - omega metric was too time consuming
+	- used comparison to random erdos-rayni graphs instead
+ - two main parameters - similarity threshold and neighbor threshold
+	similarity controls when two nodes are considered dissimilar
+	neighbor threshold controls when a node is made unhappy by its neighborhood
+
+ - resulting graphs tend to be highly modular and exhibit small-world characteristics 
+	 - arguably too modular, modularity checked via louvain algorithm
+ - provide a good benchmark for complex structured networks evolving over time
+ - disadvantages:
+	- nodes are only added, not removed
+	 - saturation
+	 - time complexity
+ - apt-markakis value was a good proxy for true cluster purity
+
+embedding system
+ - started with a system similar to dynamic gem, where we worked with a simple linear network
+ - settled on using graph convolutions - chebyshev convolutions
+ - experimented with several different loss methods 
+	- variational autoencoder, modularity maximization, embedding loss, reconstruction loss
+ - experimented with several different model designs, including fully graph convolutional,
+	fully linear, mixed graph convolution/linear/convolutional, sine relu activation
+ - achieved good results compared to dynamic gem, node2vec
+ - tends to be worse with reconstruction, better/matched with clustering, usually better speed
+ - and more stable embeddings
+
+
+applications
+ - visualization
+	tsne vs others
+ - clustering
+ - anomaly detection

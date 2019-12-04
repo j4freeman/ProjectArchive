@@ -1,0 +1,48 @@
+\BOOKMARK [0][]{chapter.3}{1 Introduction}{}% 1
+\BOOKMARK [0][]{chapter.4}{2 Background}{}% 2
+\BOOKMARK [1][]{section.5}{2.1 Networks and Models}{chapter.4}% 3
+\BOOKMARK [2][]{subsection.6}{2.1.1 Diffusion and Organization}{section.5}% 4
+\BOOKMARK [2][]{subsection.7}{2.1.2 Apt and Markakis's Model}{section.5}% 5
+\BOOKMARK [2][]{subsection.8}{2.1.3 Schelling's Model}{section.5}% 6
+\BOOKMARK [2][]{subsection.9}{2.1.4 Barab\341si and Albert's Model}{section.5}% 7
+\BOOKMARK [2][]{subsection.10}{2.1.5 Properties of Real Networks}{section.5}% 8
+\BOOKMARK [2][]{subsection.11}{2.1.6 Scale-Free Networks}{section.5}% 9
+\BOOKMARK [2][]{subsection.12}{2.1.7 Small-World Networks}{section.5}% 10
+\BOOKMARK [2][]{subsection.13}{2.1.8 Self-Similar Networks}{section.5}% 11
+\BOOKMARK [1][]{section.14}{2.2 Machine Learning on Graphs}{chapter.4}% 12
+\BOOKMARK [2][]{subsection.15}{2.2.1 Graph Embedding}{section.14}% 13
+\BOOKMARK [2][]{subsection.16}{2.2.2 Neural Networks}{section.14}% 14
+\BOOKMARK [2][]{subsection.20}{2.2.3 Random Walks}{section.14}% 15
+\BOOKMARK [1][]{section.21}{2.3 Related Work}{chapter.4}% 16
+\BOOKMARK [0][]{chapter.22}{3 Contribution}{}% 17
+\BOOKMARK [1][]{subsection.23}{3.0.1 Network Model Goals}{chapter.22}% 18
+\BOOKMARK [2][]{subsection.24}{3.0.2 Embedding System Goals}{subsection.23}% 19
+\BOOKMARK [1][]{section.25}{3.1 Network Model Design}{chapter.22}% 20
+\BOOKMARK [2][]{subsection.26}{3.1.1 Model Initialization}{section.25}% 21
+\BOOKMARK [2][]{subsection.27}{3.1.2 Barab\341si\205Albert Step}{section.25}% 22
+\BOOKMARK [2][]{subsection.29}{3.1.3 Apt-Markakis Step}{section.25}% 23
+\BOOKMARK [2][]{subsection.31}{3.1.4 Schelling Step}{section.25}% 24
+\BOOKMARK [2][]{subsection.33}{3.1.5 Implementation}{section.25}% 25
+\BOOKMARK [1][]{section.44}{3.2 Embedding System Design}{chapter.22}% 26
+\BOOKMARK [2][]{subsection.45}{3.2.1 Random Walk Augmentation}{section.44}% 27
+\BOOKMARK [2][]{subsection.46}{3.2.2 Autoencoder Architecture}{section.44}% 28
+\BOOKMARK [2][]{subsection.48}{3.2.3 Network Training}{section.44}% 29
+\BOOKMARK [2][]{subsection.50}{3.2.4 Network Evaluation}{section.44}% 30
+\BOOKMARK [2][]{subsection.51}{3.2.5 Implementation}{section.44}% 31
+\BOOKMARK [0][]{chapter.57}{4 Results}{}% 32
+\BOOKMARK [1][]{section.58}{4.1 The Network Model}{chapter.57}% 33
+\BOOKMARK [2][]{subsection.59}{4.1.1 Scale-Freeness}{section.58}% 34
+\BOOKMARK [2][]{subsection.65}{4.1.2 Small-Worldedness}{section.58}% 35
+\BOOKMARK [2][]{subsection.75}{4.1.3 Self-Similarity}{section.58}% 36
+\BOOKMARK [2][]{subsection.100}{4.1.4 Modularity}{section.58}% 37
+\BOOKMARK [1][]{section.103}{4.2 The Embedding System}{chapter.57}% 38
+\BOOKMARK [2][]{subsection.104}{4.2.1 CORA Sanity Check}{section.103}% 39
+\BOOKMARK [2][]{subsection.109}{4.2.2 Clustering Performance}{section.103}% 40
+\BOOKMARK [2][]{subsection.111}{4.2.3 Embedding Stability}{section.103}% 41
+\BOOKMARK [2][]{subsection.113}{4.2.4 Running Time}{section.103}% 42
+\BOOKMARK [2][]{subsection.115}{4.2.5 Applications}{section.103}% 43
+\BOOKMARK [0][]{chapter.123}{5 Conclusion}{}% 44
+\BOOKMARK [1][]{section.124}{5.1 Ethics and Legality}{chapter.123}% 45
+\BOOKMARK [1][]{section.125}{5.2 Future Work}{chapter.123}% 46
+\BOOKMARK [2][]{subsection.126}{5.2.1 The Network Model}{section.125}% 47
+\BOOKMARK [2][]{subsection.127}{5.2.2 The Embedding System}{section.125}% 48

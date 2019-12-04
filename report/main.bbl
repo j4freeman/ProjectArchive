@@ -1,0 +1,269 @@
+\begin{thebibliography}{10}
+
+\bibitem{centola2015social}
+Damon Centola.
+\newblock The social origins of networks and diffusion.
+\newblock {\em American Journal of Sociology}, 120(5):1295--1338, 2015.
+
+\bibitem{wu2015emergent}
+Zhihao Wu, Giulia Menichetti, Christoph Rahmede, and Ginestra Bianconi.
+\newblock Emergent complex network geometry.
+\newblock {\em Scientific reports}, 5:10073, 2015.
+
+\bibitem{apt2011diffusion}
+Krzysztof~R Apt and Evangelos Markakis.
+\newblock Diffusion in social networks with competing products.
+\newblock In {\em International Symposium on Algorithmic Game Theory}, pages
+  212--223. Springer, 2011.
+
+\bibitem{schelling1971dynamic}
+Thomas~C Schelling.
+\newblock Dynamic models of segregation.
+\newblock {\em Journal of mathematical sociology}, 1(2):143--186, 1971.
+
+\bibitem{barabasi1999emergence}
+Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
+\newblock Emergence of scaling in random networks.
+\newblock {\em science}, 286(5439):509--512, 1999.
+
+\bibitem{wang2003complex}
+Xiao~Fan Wang and Guanrong Chen.
+\newblock Complex networks: small-world, scale-free and beyond.
+\newblock {\em IEEE circuits and systems magazine}, 3(1):6--20, 2003.
+
+\bibitem{song2005self}
+Chaoming Song, Shlomo Havlin, and Hernan~A Makse.
+\newblock Self-similarity of complex networks.
+\newblock {\em Nature}, 433(7024):392, 2005.
+
+\bibitem{telesford2011ubiquity}
+Qawi~K Telesford, Karen~E Joyce, Satoru Hayasaka, Jonathan~H Burdette, and
+  Paul~J Laurienti.
+\newblock The ubiquity of small-world networks.
+\newblock {\em Brain connectivity}, 1(5):367--375, 2011.
+
+\bibitem{goyal2018graph}
+Palash Goyal and Emilio Ferrara.
+\newblock Graph embedding techniques, applications, and performance: A survey.
+\newblock {\em Knowledge-Based Systems}, 151:78--94, 2018.
+
+\bibitem{li2017attributed}
+Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi~Chang, and Huan Liu.
+\newblock Attributed network embedding for learning in a dynamic environment.
+\newblock In {\em Proceedings of the 2017 ACM on Conference on Information and
+  Knowledge Management}, pages 387--396. ACM, 2017.
+
+\bibitem{goyal2018dyngem}
+Palash Goyal, Nitin Kamra, Xinran He, and Yan Liu.
+\newblock Dyngem: Deep embedding method for dynamic graphs.
+\newblock {\em arXiv preprint arXiv:1805.11273}, 2018.
+
+\bibitem{hebb2005organization}
+Donald~Olding Hebb.
+\newblock {\em The organization of behavior: A neuropsychological theory}.
+\newblock Psychology Press, 2005.
+
+\bibitem{li2018visualizing}
+Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, and Tom Goldstein.
+\newblock Visualizing the loss landscape of neural nets.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  6389--6399, 2018.
+
+\bibitem{wu2019comprehensive}
+Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip~S
+  Yu.
+\newblock A comprehensive survey on graph neural networks.
+\newblock {\em arXiv preprint arXiv:1901.00596}, 2019.
+
+\bibitem{Fey/Lenssen/2019}
+Matthias Fey and Jan~E. Lenssen.
+\newblock Fast graph representation learning with {PyTorch Geometric}.
+\newblock In {\em ICLR Workshop on Representation Learning on Graphs and
+  Manifolds}, 2019.
+
+\bibitem{defferrard2016convolutional}
+Micha{\"e}l Defferrard, Xavier Bresson, and Pierre Vandergheynst.
+\newblock Convolutional neural networks on graphs with fast localized spectral
+  filtering.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3844--3852, 2016.
+
+\bibitem{perozzi2014deepwalk}
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
+\newblock Deepwalk: Online learning of social representations.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 701--710. ACM, 2014.
+
+\bibitem{vincent2010stacked}
+Pascal Vincent, Hugo Larochelle, Isabelle Lajoie, Yoshua Bengio, and
+  Pierre-Antoine Manzagol.
+\newblock Stacked denoising autoencoders: Learning useful representations in a
+  deep network with a local denoising criterion.
+\newblock {\em Journal of machine learning research}, 11(Dec):3371--3408, 2010.
+
+\bibitem{ying2018graph}
+Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William~L Hamilton, and
+  Jure Leskovec.
+\newblock Graph convolutional neural networks for web-scale recommender
+  systems.
+\newblock In {\em Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pages 974--983. ACM, 2018.
+
+\bibitem{ma2018dynamic}
+Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, and Dawei Yin.
+\newblock Dynamic graph neural networks.
+\newblock {\em arXiv preprint arXiv:1810.10627}, 2018.
+
+\bibitem{trivedi2018representation}
+Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, and Hongyuan Zha.
+\newblock Representation learning over dynamic graphs.
+\newblock {\em arXiv preprint arXiv:1803.04051}, 2018.
+
+\bibitem{skyrms2009dynamic}
+Brian Skyrms and Robin Pemantle.
+\newblock A dynamic model of social network formation.
+\newblock In {\em Adaptive networks}, pages 231--251. Springer, 2009.
+
+\bibitem{leskovec2005graphs}
+Jure Leskovec, Jon Kleinberg, and Christos Faloutsos.
+\newblock Graphs over time: densification laws, shrinking diameters and
+  possible explanations.
+\newblock In {\em Proceedings of the eleventh ACM SIGKDD international
+  conference on Knowledge discovery in data mining}, pages 177--187. ACM, 2005.
+
+\bibitem{blondel2008fast}
+Vincent~D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, and Etienne Lefebvre.
+\newblock Fast unfolding of communities in large networks.
+\newblock {\em Journal of statistical mechanics: theory and experiment},
+  2008(10):P10008, 2008.
+
+\bibitem{grover2016node2vec}
+Aditya Grover and Jure Leskovec.
+\newblock node2vec: Scalable feature learning for networks.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 855--864. ACM, 2016.
+
+\bibitem{chen2015net2net}
+Tianqi Chen, Ian Goodfellow, and Jonathon Shlens.
+\newblock Net2net: Accelerating learning via knowledge transfer.
+\newblock {\em arXiv preprint arXiv:1511.05641}, 2015.
+
+\bibitem{bertelle2006organization}
+Cyrille Bertelle, Antoine Dutot, Fr{\'e}d{\'e}ric Guinand, and Damien Olivier.
+\newblock Organization detection using emergent computing.
+\newblock {\em International Transactions on Systems Science and Applications},
+  2(1):61--69, 2006.
+
+\bibitem{zhou2015ant}
+Xu~Zhou, Yanheng Liu, Jindong Zhang, Tuming Liu, and Di~Zhang.
+\newblock An ant colony based algorithm for overlapping community detection in
+  complex networks.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  427:289--301, 2015.
+
+\bibitem{morris2019weisfeiler}
+Christopher Morris, Martin Ritzert, Matthias Fey, William~L Hamilton, Jan~Eric
+  Lenssen, Gaurav Rattan, and Martin Grohe.
+\newblock Weisfeiler and leman go neural: Higher-order graph neural networks.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 4602--4609, 2019.
+
+\bibitem{kipf2016semi}
+Thomas~N Kipf and Max Welling.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock {\em arXiv preprint arXiv:1609.02907}, 2016.
+
+\bibitem{newman2006modularity}
+Mark~EJ Newman.
+\newblock Modularity and community structure in networks.
+\newblock {\em Proceedings of the national academy of sciences},
+  103(23):8577--8582, 2006.
+
+\bibitem{yang2016modularity}
+Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, and Weixiong
+  Zhang.
+\newblock Modularity based community detection with deep learning.
+\newblock In {\em IJCAI}, volume~16, pages 2252--2258, 2016.
+
+\bibitem{brandes2006maximizing}
+Ulrik Brandes, Daniel Delling, Marco Gaertler, Robert G{\"o}rke, Martin Hoefer,
+  Zoran Nikoloski, and Dorothea Wagner.
+\newblock Maximizing modularity is hard.
+\newblock {\em arXiv preprint physics/0608255}, 2006.
+
+\bibitem{rizi2018shortest}
+Fatemeh~Salehi Rizi, Joerg Schloetterer, and Michael Granitzer.
+\newblock Shortest path distance approximation using deep learning techniques.
+\newblock In {\em 2018 IEEE/ACM International Conference on Advances in Social
+  Networks Analysis and Mining (ASONAM)}, pages 1007--1014. IEEE, 2018.
+
+\bibitem{maaten2008visualizing}
+Laurens van~der Maaten and Geoffrey Hinton.
+\newblock Visualizing data using t-sne.
+\newblock {\em Journal of machine learning research}, 9(Nov):2579--2605, 2008.
+
+\bibitem{van2009learning}
+Laurens Van Der~Maaten.
+\newblock Learning a parametric embedding by preserving local structure.
+\newblock In {\em Artificial Intelligence and Statistics}, pages 384--391,
+  2009.
+
+\bibitem{broido2019scale}
+Anna~D Broido and Aaron Clauset.
+\newblock Scale-free networks are rare.
+\newblock {\em Nature communications}, 10(1):1017, 2019.
+
+\bibitem{leskovec2007graph}
+Jure Leskovec, Jon Kleinberg, and Christos Faloutsos.
+\newblock Graph evolution: Densification and shrinking diameters.
+\newblock {\em ACM Transactions on Knowledge Discovery from Data (TKDD)},
+  1(1):2, 2007.
+
+\bibitem{guimera2002self}
+R~Guimera, L~Danon, A~Diaz-Guilera, F~Giralt, and A~Arenas.
+\newblock Self-similar community structure in organizations.
+\newblock {\em arXiv preprint cond-mat/0211498}, 22, 2002.
+
+\bibitem{song2007calculate}
+Chaoming Song, Lazaros~K Gallos, Shlomo Havlin, and Hern{\'a}n~A Makse.
+\newblock How to calculate the fractal dimension of a complex network: the box
+  covering algorithm.
+\newblock {\em Journal of Statistical Mechanics: Theory and Experiment},
+  2007(03):P03006, 2007.
+
+\bibitem{song2006origins}
+Chaoming Song, Shlomo Havlin, and Hern{\'a}n~A Makse.
+\newblock Origins of fractality in the growth of complex networks.
+\newblock {\em Nature physics}, 2(4):275, 2006.
+
+\bibitem{horton1945erosional}
+Robert~E Horton.
+\newblock Erosional development of streams and their drainage basins;
+  hydrophysical approach to quantitative morphology.
+\newblock {\em Geological society of America bulletin}, 56(3):275--370, 1945.
+
+\bibitem{strahler1952dynamic}
+Arthur~N Strahler.
+\newblock Dynamic basis of geomorphology.
+\newblock {\em Geological Society of America Bulletin}, 63(9):923--938, 1952.
+
+\bibitem{sen2008collective}
+Prithviraj Sen, Galileo Namata, Mustafa Bilgic, Lise Getoor, Brian Galligher,
+  and Tina Eliassi-Rad.
+\newblock Collective classification in network data.
+\newblock {\em AI magazine}, 29(3):93--93, 2008.
+
+\bibitem{panzarasa2009patterns}
+Pietro Panzarasa, Tore Opsahl, and Kathleen~M Carley.
+\newblock Patterns and dynamics of users' behavior and interaction: Network
+  analysis of an online community.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 60(5):911--932, 2009.
+
+\bibitem{wu2018multimodal}
+Mike Wu and Noah Goodman.
+\newblock Multimodal generative models for scalable weakly-supervised learning.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  5575--5585, 2018.
+
+\end{thebibliography}

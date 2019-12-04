@@ -1,0 +1,65 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.3}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.4}
+\contentsline {section}{\numberline {2.1}Networks and Models}{3}{section.5}
+\contentsline {subsection}{\numberline {2.1.1}Diffusion and Organization}{3}{subsection.6}
+\contentsline {subsection}{\numberline {2.1.2}Apt and Markakis's Model}{4}{subsection.7}
+\contentsline {subsection}{\numberline {2.1.3}Schelling's Model}{4}{subsection.8}
+\contentsline {subsection}{\numberline {2.1.4}Barab\IeC {\'a}si and Albert's Model}{5}{subsection.9}
+\contentsline {subsection}{\numberline {2.1.5}Properties of Real Networks}{5}{subsection.10}
+\contentsline {subsection}{\numberline {2.1.6}Scale-Free Networks}{5}{subsection.11}
+\contentsline {subsection}{\numberline {2.1.7}Small-World Networks}{5}{subsection.12}
+\contentsline {subsection}{\numberline {2.1.8}Self-Similar Networks}{6}{subsection.13}
+\contentsline {section}{\numberline {2.2}Machine Learning on Graphs}{6}{section.14}
+\contentsline {subsection}{\numberline {2.2.1}Graph Embedding}{7}{subsection.15}
+\contentsline {subsection}{\numberline {2.2.2}Neural Networks}{7}{subsection.16}
+\contentsline {subsubsection}{Unsupervised Networks and Autoencoders}{8}{section*.17}
+\contentsline {subsubsection}{Convolution on Graphs}{8}{section*.18}
+\contentsline {subsubsection}{Chebyshev Convolutions}{9}{section*.19}
+\contentsline {subsection}{\numberline {2.2.3}Random Walks}{9}{subsection.20}
+\contentsline {section}{\numberline {2.3}Related Work}{10}{section.21}
+\contentsline {chapter}{\numberline {3}Contribution}{11}{chapter.22}
+\contentsline {subsection}{\numberline {3.0.1}Network Model Goals}{11}{subsection.23}
+\contentsline {subsection}{\numberline {3.0.2}Embedding System Goals}{11}{subsection.24}
+\contentsline {section}{\numberline {3.1}Network Model Design}{12}{section.25}
+\contentsline {subsection}{\numberline {3.1.1}Model Initialization}{12}{subsection.26}
+\contentsline {subsection}{\numberline {3.1.2}Barab\IeC {\'a}si\IeC {\textendash }Albert Step}{12}{subsection.27}
+\contentsline {subsection}{\numberline {3.1.3}Apt-Markakis Step}{13}{subsection.29}
+\contentsline {subsection}{\numberline {3.1.4}Schelling Step}{13}{subsection.31}
+\contentsline {subsection}{\numberline {3.1.5}Implementation}{14}{subsection.33}
+\contentsline {subsubsection}{Edge Saturation}{14}{section*.34}
+\contentsline {subsubsection}{Time Complexity}{17}{section*.43}
+\contentsline {section}{\numberline {3.2}Embedding System Design}{17}{section.44}
+\contentsline {subsection}{\numberline {3.2.1}Random Walk Augmentation}{17}{subsection.45}
+\contentsline {subsection}{\numberline {3.2.2}Autoencoder Architecture}{18}{subsection.46}
+\contentsline {subsection}{\numberline {3.2.3}Network Training}{19}{subsection.48}
+\contentsline {subsection}{\numberline {3.2.4}Network Evaluation}{20}{subsection.50}
+\contentsline {subsection}{\numberline {3.2.5}Implementation}{20}{subsection.51}
+\contentsline {subsubsection}{Designing the Augmented Data Matrix}{20}{section*.52}
+\contentsline {subsubsection}{Designing the Network Architecture}{21}{section*.53}
+\contentsline {subsubsection}{Designing the Loss Functions}{21}{section*.54}
+\contentsline {subsubsection}{Modularity and Shortest Paths}{22}{section*.55}
+\contentsline {subsubsection}{Visualizing the Embeddings}{22}{section*.56}
+\contentsline {chapter}{\numberline {4}Results}{24}{chapter.57}
+\contentsline {section}{\numberline {4.1}The Network Model}{24}{section.58}
+\contentsline {subsection}{\numberline {4.1.1}Scale-Freeness}{24}{subsection.59}
+\contentsline {subsection}{\numberline {4.1.2}Small-Worldedness}{25}{subsection.65}
+\contentsline {subsubsection}{Average Clustering and Path Length}{25}{section*.66}
+\contentsline {subsubsection}{Diameter Dynamics}{26}{section*.71}
+\contentsline {subsection}{\numberline {4.1.3}Self-Similarity}{27}{subsection.75}
+\contentsline {subsubsection}{Girvan-Newman Self-Similarity}{27}{section*.76}
+\contentsline {subsubsection}{Box Counting Self-Similarity}{30}{section*.94}
+\contentsline {subsection}{\numberline {4.1.4}Modularity}{32}{subsection.100}
+\contentsline {section}{\numberline {4.2}The Embedding System}{32}{section.103}
+\contentsline {subsection}{\numberline {4.2.1}CORA Sanity Check}{33}{subsection.104}
+\contentsline {subsection}{\numberline {4.2.2}Clustering Performance}{34}{subsection.109}
+\contentsline {subsection}{\numberline {4.2.3}Embedding Stability}{35}{subsection.111}
+\contentsline {subsection}{\numberline {4.2.4}Running Time}{35}{subsection.113}
+\contentsline {subsection}{\numberline {4.2.5}Applications}{36}{subsection.115}
+\contentsline {subsubsection}{Visualizing Trajectories}{37}{section*.121}
+\contentsline {subsubsection}{Anomaly Detection}{37}{section*.122}
+\contentsline {chapter}{\numberline {5}Conclusion}{38}{chapter.123}
+\contentsline {section}{\numberline {5.1}Ethics and Legality}{39}{section.124}
+\contentsline {section}{\numberline {5.2}Future Work}{39}{section.125}
+\contentsline {subsection}{\numberline {5.2.1}The Network Model}{39}{subsection.126}
+\contentsline {subsection}{\numberline {5.2.2}The Embedding System}{40}{subsection.127}

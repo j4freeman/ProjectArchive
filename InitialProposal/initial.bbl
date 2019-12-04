@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+
+\bibitem{apt2011diffusion}
+Krzysztof~R Apt and Evangelos Markakis.
+\newblock Diffusion in social networks with competing products.
+\newblock In {\em International Symposium on Algorithmic Game Theory}, pages
+  212--223. Springer, 2011.
+
+\bibitem{schelling1971dynamic}
+Thomas~C Schelling.
+\newblock Dynamic models of segregation.
+\newblock {\em Journal of mathematical sociology}, 1(2):143--186, 1971.
+
+\bibitem{barabasi1999emergence}
+Albert-L{\'a}szl{\'o} Barab{\'a}si and R{\'e}ka Albert.
+\newblock Emergence of scaling in random networks.
+\newblock {\em science}, 286(5439):509--512, 1999.
+
+\bibitem{goyal2018graph}
+Palash Goyal and Emilio Ferrara.
+\newblock Graph embedding techniques, applications, and performance: A survey.
+\newblock {\em Knowledge-Based Systems}, 151:78--94, 2018.
+
+\bibitem{li2017attributed}
+Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi~Chang, and Huan Liu.
+\newblock Attributed network embedding for learning in a dynamic environment.
+\newblock In {\em Proceedings of the 2017 ACM on Conference on Information and
+  Knowledge Management}, pages 387--396. ACM, 2017.
+
+\bibitem{goyal2018dyngem}
+Palash Goyal, Nitin Kamra, Xinran He, and Yan Liu.
+\newblock Dyngem: Deep embedding method for dynamic graphs.
+\newblock {\em arXiv preprint arXiv:1805.11273}, 2018.
+
+\bibitem{wu2019comprehensive}
+Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, and Philip~S
+  Yu.
+\newblock A comprehensive survey on graph neural networks.
+\newblock {\em arXiv preprint arXiv:1901.00596}, 2019.
+
+\bibitem{Fey/Lenssen/2019}
+Matthias Fey and Jan~E. Lenssen.
+\newblock Fast graph representation learning with {PyTorch Geometric}.
+\newblock In {\em ICLR Workshop on Representation Learning on Graphs and
+  Manifolds}, 2019.
+
+\bibitem{perozzi2014deepwalk}
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
+\newblock Deepwalk: Online learning of social representations.
+\newblock In {\em Proceedings of the 20th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 701--710. ACM, 2014.
+
+\bibitem{bertelle2006organization}
+Cyrille Bertelle, Antoine Dutot, Fr{\'e}d{\'e}ric Guinand, and Damien Olivier.
+\newblock Organization detection using emergent computing.
+\newblock {\em International Transactions on Systems Science and Applications},
+  2(1):61--69, 2006.
+
+\bibitem{zhou2015ant}
+Xu~Zhou, Yanheng Liu, Jindong Zhang, Tuming Liu, and Di~Zhang.
+\newblock An ant colony based algorithm for overlapping community detection in
+  complex networks.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  427:289--301, 2015.
+
+\bibitem{ying2018graph}
+Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William~L Hamilton, and
+  Jure Leskovec.
+\newblock Graph convolutional neural networks for web-scale recommender
+  systems.
+\newblock In {\em Proceedings of the 24th ACM SIGKDD International Conference
+  on Knowledge Discovery \& Data Mining}, pages 974--983. ACM, 2018.
+
+\bibitem{cohen2003scale}
+Reuven Cohen and Shlomo Havlin.
+\newblock Scale-free networks are ultrasmall.
+\newblock {\em Physical review letters}, 90(5):058701, 2003.
+
+\bibitem{telesford2011ubiquity}
+Qawi~K Telesford, Karen~E Joyce, Satoru Hayasaka, Jonathan~H Burdette, and
+  Paul~J Laurienti.
+\newblock The ubiquity of small-world networks.
+\newblock {\em Brain connectivity}, 1(5):367--375, 2011.
+
+\bibitem{snapnets}
+Jure Leskovec and Andrej Krevl.
+\newblock {SNAP Datasets}: {Stanford} large network dataset collection.
+\newblock \url{http://snap.stanford.edu/data}, June 2014.
+
+\bibitem{mislove2007measurement}
+Alan Mislove, Massimiliano Marcon, Krishna~P Gummadi, Peter Druschel, and Bobby
+  Bhattacharjee.
+\newblock Measurement and analysis of online social networks.
+\newblock In {\em Proceedings of the 7th ACM SIGCOMM conference on Internet
+  measurement}, pages 29--42. ACM, 2007.
+
+\bibitem{chen2015net2net}
+Tianqi Chen, Ian Goodfellow, and Jonathon Shlens.
+\newblock Net2net: Accelerating learning via knowledge transfer.
+\newblock {\em arXiv preprint arXiv:1511.05641}, 2015.
+
+\bibitem{xie2016unsupervised}
+Junyuan Xie, Ross Girshick, and Ali Farhadi.
+\newblock Unsupervised deep embedding for clustering analysis.
+\newblock In {\em International conference on machine learning}, pages
+  478--487, 2016.
+
+\bibitem{zhang2019deep}
+Hongjing Zhang, Sugato Basu, and Ian Davidson.
+\newblock Deep constrained clustering-algorithms and advances.
+\newblock {\em arXiv preprint arXiv:1901.10061}, 2019.
+
+\end{thebibliography}

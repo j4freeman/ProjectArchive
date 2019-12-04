@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Background}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Networks and Models}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Machine Learning on Graphs}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Autoencoders}{5}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Convolution on Graphs}{5}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Random Walks and Ant Colonies}{6}{subsubsection.1.2.3}
+\contentsline {subsection}{\numberline {1.3}Related Work}{7}{subsection.1.3}
+\contentsline {section}{\numberline {2}Project Proposal}{8}{section.2}
+\contentsline {section}{\numberline {3}Objectives}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Critcal}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Planned}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Reach}{10}{subsection.3.3}
+\contentsline {section}{\numberline {4}Model Design}{11}{section.4}
+\contentsline {section}{\numberline {5}Dynamic Node Embedding System Design}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Random Walker Proposal}{12}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Convolutional Autoencoder Proposal}{12}{subsection.5.2}
+\contentsline {section}{\numberline {6}Exploring Graph Problems}{14}{section.6}
+\contentsline {section}{\numberline {7}Schedule}{15}{section.7}
+\contentsline {section}{\numberline {8}Progress}{16}{section.8}
+\contentsline {section}{References}{19}{figure.7}

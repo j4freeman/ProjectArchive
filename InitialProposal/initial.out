@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Background}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Networks and Models}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Machine Learning on Graphs}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Autoencoders}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Convolution on Graphs}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Random Walks and Ant Colonies}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Related Work}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{Project Proposal}{}% 8
+\BOOKMARK [1][-]{section.3}{Objectives}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Critcal}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Planned}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Reach}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Model Design}{}% 13
+\BOOKMARK [1][-]{section.5}{Dynamic Node Embedding System Design}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Random Walker Proposal}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Convolutional Autoencoder Proposal}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Exploring Graph Problems}{}% 17
+\BOOKMARK [1][-]{section.7}{Schedule}{}% 18
+\BOOKMARK [1][-]{section.8}{Progress}{}% 19
+\BOOKMARK [1][-]{figure.7}{References}{}% 20
